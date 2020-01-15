@@ -1,4 +1,4 @@
-package spk.aws.training.awsspktraining;
+package spk.aws.training;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
